@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/05_arrayConcatAll.js"
+            "program": "${workspaceFolder}/06_IntroducingObservables.js"
         }
     ]
 }
