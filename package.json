@@ -1,0 +1,25 @@
+{
+  "name": "Javascript_Async",
+  "version": "1.0.0",
+  "description": "THIS IS BASED OFF THIS ONLINE SHORT COURSE:",
+  "main": "01_forEach.js",
+  "dependencies": {
+    "npm": "^6.4.1",
+    "rxjs": "^6.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jpj90/Javascript_Async.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jpj90/Javascript_Async/issues"
+  },
+  "homepage": "https://github.com/jpj90/Javascript_Async#readme"
+}

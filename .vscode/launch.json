@@ -9,7 +9,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch Program",
-            "program": "${workspaceFolder}/06_IntroducingObservables.js"
+            "program": "${workspaceFolder}/07_observableWithMap.js"
         }
     ]
 }
